@@ -51,12 +51,11 @@ education:
         - Received an excellent scholarship in one semester.
 experiences:
     - role: Indie Game Dev
-      time: 2019 - Present
-      company: Startup CoreCrystalGames, Ha Noi
+      time: Present
+      company: CoreCrystalGames, Ha Noi
       details: |
-        As a startup environment, I am forced to take on many different 
-        roles Unity Dev, Game Designer, Art Director ... 
-        I fulfill roles well and products are released and improved every day.
+        I aspire to create higher-quality games that push boundaries and embrace creativity, 
+        which is why I’ve chosen the path of an indie game developer, keeping production costs lean.
           - Work as full stack developer.
           - Experience in team management.
 
@@ -66,7 +65,7 @@ experiences:
       details: |
         - Work as full stack developer on multi player game (server and client).
 
-    - role: Senior Unity Developer
+    - role: Junior Unity Developer
       time: 2016 - 2019
       company: Rocket - OneSoft, Ha Noi
       details: |
@@ -117,20 +116,17 @@ skills:
 
     toolset:
       - name: Unity, C#, DOTS, Shader Graph
-        level: 95%
-
-      - name: Playfab, Azure Serverless, Azure Table DB
-        level: 80%
+        level: 90%
         
       - name: Multi Player Game
-        level: 80%
+        level: 70%
+
+      - name: Database, Playfab, Azure Serverless, Azure Table DB
+        level: 50%
         
       - name: Javascript & Lua
         level: 30%
-
-      - name: Database
-        level: 50%
-
+        
       - name: Photoshop & Aseprite
         level: 30%
 
