@@ -54,22 +54,22 @@ experiences:
       time: 12/2019 - Present
       company: CoreCrystalGames (one man studio)
       details: |
-        I aspire to create higher-quality games that push boundaries and embrace creativity, 
+        I aspire to create higher-quality games that push boundaries and embrace creativity,
         which is why I’ve chosen the path of an indie game developer, keeping production costs lean.
         
           - I completed two indie games, Dungeon VS Gunner and Hill Racing Boss using Unity, which helped me learn a lot of new things.
           
-          - With Dungeon VS Gunner, I gained experience coding the bullet hell system, 
-          the AI ​​system using Behavior Tree design, the weapon system including bullet guns with customizable trajectories, 
+          - With Dungeon VS Gunner, I gained experience coding the bullet hell system,
+          the AI ​​system using Behavior Tree design, the weapon system including bullet guns with customizable trajectories,
           laser guns, melee weapons, and weapons using a particle system (when zombies spray poison), etc..
           
-          - With Hill Racing Boss as a physics-based racing game, I've created motorcycles and riders with fun physics simulations. 
+          - With Hill Racing Boss as a physics-based racing game, I've created motorcycles and riders with fun physics simulations.
           I'm also planning to add a multiplayer feature in the future.
           Some interesting features I've implemented are:
               + When a rider falls, they'll be thrown out like a ragdoll according to physics.
-              + Players can collect item boxes or spin the bike around a lot to get in-game items, 
+              + Players can collect item boxes or spin the bike around a lot to get in-game items,
               some of which help increase speed, provide protection, or create obstacles for those behind them.
-              + Additionally, the game features races against powerful bosses, who are skilled at creating obstacles for other vehicles. 
+              + Additionally, the game features races against powerful bosses, who are skilled at creating obstacles for other vehicles.
           
           - I am also developing a game entirely using Unity's DOTS technology and have a solid understanding of this technology.
 
@@ -77,14 +77,14 @@ experiences:
       time: 01/2022 - 7/2023
       company: VMO, Ha Noi
       details: |
-        I created a card game that mimics Clash Royale. 
+        I created a card game that mimics Clash Royale.
           - I coded the entire Unity client and server for this game, using Unity's Unet technology.
 
     - role: Junior Unity Developer
       time: 01/2016 - 12/2019
       company: Rocket - OneSoft, Ha Noi
       details: |
-        I've made several casual games, most notably Space Shooter: Galaxy Attack. 
+        I've made several casual games, most notably Space Shooter: Galaxy Attack.
         I programmed the game's original final boss system and updated it from launch until it reached 100 million downloads.
           - Nominated as employee of the year.
           - Coded the least bugs on the team.
