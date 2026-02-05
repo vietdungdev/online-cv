@@ -54,21 +54,17 @@ experiences:
       details: |
         I aim to create high-quality games that push boundaries and foster creativity. 
         This is why I chose the path of an indie developer, focusing on lean and cost-efficient production.
-
           - Released two indie games, Dungeon VS Gunner and Hill Racing Boss, gaining extensive hands-on experience across multiple disciplines.
-
           - Dungeon VS Gunner:
               + Implemented a bullet hell combat system.
               + Developed AI systems using Behavior Tree architecture.
               + Built a flexible weapon system including customizable trajectory guns, laser weapons, melee weapons, and particle-based weapons (e.g., zombie poison spray effects).
-
           - Hill Racing Boss (physics-based racing game):
               + Developed motorcycles and rider controllers with engaging physics-based simulations.
               + Implemented ragdoll physics when riders fall.
               + Designed reward mechanics where players earn items through stunt performance or item boxes.
               + Created boss races featuring dynamic obstacle mechanics.
               + Multiplayer features planned for future updates.
-
           - Currently developing a survival game fully based on Unity DOTS, with strong hands-on expertise in data-oriented design.
 
     - role: Senior Unity Developer
