@@ -56,7 +56,9 @@ experiences:
       details: |
         I aspire to create higher-quality games that push boundaries and embrace creativity, 
         which is why I’ve chosen the path of an indie game developer, keeping production costs lean.
-        I completed two indie games, Dungeon VS Gunner and Hill Racing Boss using Unity, which helped me learn a lot of new things.
+        
+          - I completed two indie games, Dungeon VS Gunner and Hill Racing Boss using Unity, which helped me learn a lot of new things.
+          
           - With Dungeon VS Gunner, I gained experience coding the bullet hell system, 
           the AI ​​system using Behavior Tree design, the weapon system including bullet guns with customizable trajectories, 
           laser guns, melee weapons, and weapons using a particle system (when zombies spray poison), etc..
@@ -74,7 +76,7 @@ experiences:
       time: 01/2022 - 7/2023
       company: VMO, Ha Noi
       details: |
-        I created a card game that mimics Class of Clans. 
+        I created a card game that mimics Clash Royale. 
           - I coded the entire Unity client and server for this game, using Unity's Unet technology.
 
     - role: Junior Unity Developer
