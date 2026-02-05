@@ -1,148 +1,151 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False
+    education: True
 
-    # Profile information
     name: Vũ Việt Dũng
     tagline: Unity Developer and Game Designer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png
 
-    # Sidebar links
     email: vietdungdev@gmail.com
     phone: (+84)983470253
     citizenship:
-    website: corecrystalgames.com #do not add http://
+    website: corecrystalgames.com
     linkedin: vietdungdev
     github: vietdungdev
-    telegram: vietdungdev # add your nickname without '@' sign
+    telegram: vietdungdev
     twitter: 'vietdungdev'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     languages:
       - idiom: Vietnamese
         level: Native
 
       - idiom: English
-        level: The most effective communication is through chat
+        level: Professional working proficiency
 
     interests:
       - item: Gaming
-        link:
-
       - item: Reading
-        link:
+
 
 career-profile:
     title: Career Profile
     summary: |
-      I always want to improve myself so 
-      I always try my best at every company I have worked for.
+      Unity Developer and Game Designer with over 10 years of experience in game development, 
+      specializing in gameplay systems, physics simulation, and DOTS technology. 
+      Passionate about building innovative, high-quality games and continuously improving my skills. 
+      Proven track record in shipping successful titles with millions of downloads.
+
+
 education:
-    - degree: Software Engineer 
+    - degree: Software Engineering
       university: Phuong Dong University
       time: 2011 - 2014
       details: |
-        - Received an excellent scholarship in one semester.
+        - Awarded an excellent student scholarship for one semester.
+
+
 experiences:
-    - role: Indie Game Dev
+    - role: Indie Game Developer
       time: 12/2019 - Present
-      company: CoreCrystalGames (one man studio)
+      company: CoreCrystalGames (One-man studio)
       details: |
-        I aspire to create higher-quality games that push boundaries and embrace creativity,
-        which is why I’ve chosen the path of an indie game developer, keeping production costs lean.
-        
-          - I completed two indie games, Dungeon VS Gunner and Hill Racing Boss using Unity, which helped me learn a lot of new things.
-          
-          - With Dungeon VS Gunner, I gained experience coding the bullet hell system,
-          the AI ​​system using Behavior Tree design, the weapon system including bullet guns with customizable trajectories,
-          laser guns, melee weapons, and weapons using a particle system (when zombies spray poison), etc..
-          
-          - With Hill Racing Boss as a physics-based racing game, I've created motorcycles and riders with fun physics simulations.
-          I'm also planning to add a multiplayer feature in the future.
-          Some interesting features I've implemented are:
-              + When a rider falls, they'll be thrown out like a ragdoll according to physics.
-              + Players can collect item boxes or spin the bike around a lot to get in-game items,
-              some of which help increase speed, provide protection, or create obstacles for those behind them.
-              + Additionally, the game features races against powerful bosses, who are skilled at creating obstacles for other vehicles.
-          
-          - I am also developing a game entirely using Unity's DOTS technology and have a solid understanding of this technology.
+        I aim to create high-quality games that push boundaries and foster creativity. 
+        This is why I chose the path of an indie developer, focusing on lean and cost-efficient production.
+
+          - Released two indie games, Dungeon VS Gunner and Hill Racing Boss, gaining extensive hands-on experience across multiple disciplines.
+
+          - Dungeon VS Gunner:
+              + Implemented a bullet hell combat system.
+              + Developed AI systems using Behavior Tree architecture.
+              + Built a flexible weapon system including customizable trajectory guns, laser weapons, melee weapons, and particle-based weapons (e.g., zombie poison spray effects).
+
+          - Hill Racing Boss (physics-based racing game):
+              + Developed motorcycles and rider controllers with engaging physics-based simulations.
+              + Implemented ragdoll physics when riders fall.
+              + Designed reward mechanics where players earn items through stunt performance or item boxes.
+              + Created boss races featuring dynamic obstacle mechanics.
+              + Multiplayer features planned for future updates.
+
+          - Currently developing a survival game fully based on Unity DOTS, with strong hands-on expertise in data-oriented design.
 
     - role: Senior Unity Developer
       time: 01/2022 - 7/2023
       company: VMO, Ha Noi
       details: |
-        I created a card game that mimics Clash Royale.
-          - I coded the entire Unity client and server for this game, using Unity's Unet technology.
+        Developed a real-time multiplayer card game inspired by Clash Royale-style gameplay.
+          - Implemented both client and server systems using Unity UNet (legacy networking).
 
     - role: Junior Unity Developer
       time: 01/2016 - 12/2019
       company: Rocket - OneSoft, Ha Noi
       details: |
-        I've made several casual games, most notably Space Shooter: Galaxy Attack.
-        I programmed the game's original final boss system and updated it from launch until it reached 100 million downloads.
-          - Nominated as employee of the year.
-          - Coded the least bugs on the team.
+        Developed multiple casual games, most notably Space Shooter: Galaxy Attack.
+          - Designed and implemented the original final boss system.
+          - Contributed to live operations from launch to 100M+ downloads.
+          - Nominated as Employee of the Year.
+          - Recognized for delivering stable code with minimal bugs.
 
     - role: Unity Developer
       time: 01/2015 - 01/2016
       company: VTC Game, Ha Noi
       details: |
-        Develop hyper casual games and perfect my Unity experience.
+        Developed hyper-casual games and strengthened my Unity expertise.
 
     - role: Game Developer
       time: 01/2014 - 01/2015
       company: Yotel Game, Ha Noi
       details: |
-        Game development based on Gideros engine and Corona game engine, learn more about game development.
+        Developed games using Gideros and Corona engines, expanding my foundation in game development.
+
 
 projects:
     title: Projects
     intro: >
-      Here are my featured products:
+      Featured products:
     assignments:
       - title: Dungeon VS Gunner (Indie Game)
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.dungeonvsgunner"
-        tagline: "Take on the full role of game developer and designer, as well as the art director in the game."
+        tagline: "Full-cycle game development, including design and art direction."
 
       - title: Hill Racing Boss (Indie Game)
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.hillracingboss"
-        tagline: "3D Racing game - Take on the full role of game developer and designer"
+        tagline: "3D physics-based racing game developed independently."
 
-      - title: Demo 3d game with 500 units in battle
+      - title: Demo 3D Game with 500 Units in Battle
         link: "https://drive.google.com/file/d/1EiwlTIh9hsnAWtH9OpoU8yTez67Hy2ty/view"
-        tagline: "A 3D demo game utilizing Unity DOTS technology, featuring over 500 units in battle"
+        tagline: "Unity DOTS demo featuring large-scale battles with 500+ units."
 
       - title: DoragonLand
         link: "https://play.google.com/store/apps/details?id=com.quasargamestudio.doragonland&hl=en&gl=US"
-        tagline: "Fullstack developer - multiplayer game"
+        tagline: "Full-stack multiplayer game development."
 
-      - title: Space shooter - Galaxy attack
+      - title: Space Shooter - Galaxy Attack
         link: "https://play.google.com/store/apps/details?id=com.game.space.shooter2&hl=en&gl=US"
-        tagline: "Product development as a key member, accompanying the product from reaching 5 million downloads to reaching 100 million downloads."
+        tagline: "Core team member contributing from 5M to 100M+ downloads."
+
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Unity, C#, DOTS, Shader Graph
         level: 90%
-        
-      - name: Multi Player Game
+
+      - name: Multiplayer Game Development
         level: 70%
 
-      - name: Database, Playfab, Azure Serverless, Azure Table DB
+      - name: Databases, PlayFab, Azure Serverless, Azure Table DB
         level: 50%
-        
-      - name: Javascript & Lua
+
+      - name: JavaScript & Lua
         level: 30%
-        
+
       - name: Photoshop & Aseprite
         level: 30%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
