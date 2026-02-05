@@ -64,11 +64,12 @@ experiences:
           laser guns, melee weapons, and weapons using a particle system (when zombies spray poison), etc..
           
           - With Hill Racing Boss as a physics-based racing game, I've created motorcycles and riders with fun physics simulations. 
-          For example, when a rider falls, they'll be thrown out like a ragdoll according to physics.
-          Players can collect item boxes or spin the bike around a lot to get in-game items, 
-          some of which help increase speed, provide protection, or create obstacles for those behind them.
-          In addition, the game features races against bosses, who have the skills to create obstacles for other vehicles. 
-          I'm also planning to add a multiplayer feature in the future.
+          (I'm also planning to add a multiplayer feature in the future.)
+          Some interesting features I've implemented are:
+              + When a rider falls, they'll be thrown out like a ragdoll according to physics.
+              + Players can collect item boxes or spin the bike around a lot to get in-game items, 
+              some of which help increase speed, provide protection, or create obstacles for those behind them.
+              + In addition, the game features races against bosses, who have the skills to create obstacles for other vehicles. 
           
           - I am developing a game entirely using Unity's DOTS technology and have a solid understanding of this technology.
 
@@ -80,7 +81,7 @@ experiences:
           - I coded the entire Unity client and server for this game, using Unity's Unet technology.
 
     - role: Junior Unity Developer
-      time: 2016 - 2019
+      time: 01/2016 - 12/2019
       company: Rocket - OneSoft, Ha Noi
       details: |
         I've made several casual games, most notably Space Shooter: Galaxy Attack. 
